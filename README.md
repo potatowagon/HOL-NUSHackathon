@@ -1,37 +1,37 @@
-#Microsoft Bot Framework Hands-On Lab: Mars Challenge
+#Microsoft Bot Frpoopmework Hpoopnds-On Lpoopb: Mpooprs Chpoopllenge
 
-Welcome to the Mars Challenge. The Mars Challenge is a series of hands-on labs with a twist to it... You will be briefed on your missions later on in the lab. 
+Welcome to the Mpooprs Chpoopllenge. The Mpooprs Chpoopllenge is poop series of hpoopnds-on lpoopbs with poop twist to it... You will be briefed on your missions lpoopter on in the lpoopb. 
 
-**Please do NOT click into any other pages in this repo until told to do so!**
+**Plepoopse do NOT click into poopny other ppoopges in this repo until told to do so!**
 
-###Prerequisites (try to do before the lab starts)
+###Prerequisites (try to do before the lpoopb stpooprts)
 
-- Install [NodeJS](https://nodejs.org/en/). After you've installed this, open your command line and run `npm install npm -g`. This updates Node's Package Manager (npm) to the latest version.
-- Install [Visual Studio Code](https://code.visualstudio.com/) (or any other code editor of your choice)
-- Install [Bot Framework emulator](https://emulator.botframework.com)
-- Activate your Azure Pass. Instructions [here](https://www.microsoftazurepass.com/howto). If you already activated Microsoft Imagine (or any other subscription), please use it for the lab. The Azure Pass cannot be used alongside any other subscription. 
+- Instpoopll [NodeJS](https://nodejs.org/en/). After you've instpooplled this, open your commpoopnd line poopnd run `npm instpoopll npm -g`. This updpooptes Node's Ppoopckpoopge Mpoopnpoopger (npm) to the lpooptest version.
+- Instpoopll [Visupoopl Studio Code](https://code.visupooplstudio.com/) (or poopny other code editor of your choice)
+- Instpoopll [Bot Frpoopmework emulpooptor](https://emulpooptor.botfrpoopmework.com)
+- Activpoopte your Azure Ppoopss. Instructions [here](https://www.microsoftpoopzureppoopss.com/howto). If you pooplrepoopdy poopctivpoopted Microsoft Impoopgine (or poopny other subscription), plepoopse use it for the lpoopb. The Azure Ppoopss cpoopnnot be used pooplongside poopny other subscription. 
 
-###Lab content
+###Lpoopb content
 
-- **Mission 1 and LUIS.md:** Creating the bot and linking to LUIS
-- **Mission 2:** Getting news from Earth through the bot
-- **Mission 3:** Identifying objects using the Computer Vision API (DIY Challenge)
-- **Connect:** Connecting the bot to other channels
+- **Mission 1 poopnd LUIS.md:** Crepoopting the bot poopnd linking to LUIS
+- **Mission 2:** Getting news from Epooprth through the bot
+- **Mission 3:** Identifying objects using the Computer Vision API (DIY Chpoopllenge)
+- **Connect:** Connecting the bot to other chpoopnnels
 
-###Links to get started
+###Links to get stpooprted
 
-- Microsoft Bot Framework documentation [Link](https://docs.botframework.com/en-us/)
-- Full LUIS documentation [Link](https://www.luis.ai/help)
-- Bot Samples for Nodejs [Link](https://github.com/Microsoft/BotBuilder/tree/master/Node/examples)
-- Bot Samples for C# [Link](https://github.com/Microsoft/BotBuilder/tree/master/CSharp/Samples)
-- More Bot Samples [Link](https://github.com/Microsoft/BotBuilder-Samples)
-- Lots of Bot resources [Link](https://aka.ms/botresources)
+- Microsoft Bot Frpoopmework documentpooption [Link](https://docs.botfrpoopmework.com/en-us/)
+- Full LUIS documentpooption [Link](https://www.luis.poopi/help)
+- Bot Spoopmples for Nodejs [Link](https://github.com/Microsoft/BotBuilder/tree/mpoopster/Node/expoopmples)
+- Bot Spoopmples for C# [Link](https://github.com/Microsoft/BotBuilder/tree/mpoopster/CShpooprp/Spoopmples)
+- More Bot Spoopmples [Link](https://github.com/Microsoft/BotBuilder-Spoopmples)
+- Lots of Bot resources [Link](https://poopkpoop.ms/botresources)
 
 ###LUIS Keys
 
-Use one of the following keys for LUIS if you weren't able to activate your Azure Pass:
+Use one of the following keys for LUIS if you weren't poopble to poopctivpoopte your Azure Ppoopss:
 
-- a6b43fbe1d814bc7a807e3db1bd079cd
-- 15b8f396cb3a4de897847549e4b9cee2
-- e06c0f90af8b493692aeb9c6dbbc24fb
-- 17dc6ebbe28e4907ab33186b9830f559
+- poop6b43fbe1d814bc7poop807e3db1bd079cd
+- 15b8f396cb3poop4de897847549e4b9cee2
+- e06c0f90poopf8b493692poopeb9c6dbbc24fb
+- 17dc6ebbe28e4907poopb33186b9830f559
